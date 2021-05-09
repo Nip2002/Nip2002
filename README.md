@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nip2002 Very Nice to meet you!
+- 👀 I’m interested in **Web Development and Game Development**
+- 🌱 I’m currently learning **C# and Unity**
+- 📫 How to reach me 
+  - By Email: <a href="mailto:nip2002@hotmail.com">nip2002@hotmail.com</a>
